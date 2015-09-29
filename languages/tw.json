@@ -1,0 +1,31 @@
+{
+    "MYNAME":"Ken Kuang",
+    "HI":"嗨!",
+    "IM":"我是",
+    "CHANGELANG": "English",
+    "INTRO":"這個網站是我的個人簡介",
+    "LEARNABOUTME":"更多關於我",
+    "WHATIDO":"這些事我的專長",
+    "APPDEV":"手機程式開發",
+    "APPDEV_DETAIL":"Android App 程式開發",
+    "WEBDESIGN":"網頁程式設計",
+    "WEBDESIGN_DETAIL":"從前端到後端開發，至前後端整合。前端熟習Html5,javascript,Angular JS,後端為PHP,Node.js",
+    "WINAPP":"Windows 視窗程式開發",
+    "WINAPP_DETAIL":"C# 視窗程式開發",
+    "SEEMYWORK":"看看我的成品",
+    "MYWORK":"以下是我最近的開源專案",
+    "CLICKTOMORE":"",
+    "ONLINESLIDE":"線上互動投影片",
+    "ONLINESLIDE_DETAIL":"以reveal js實做一個html互動投影片，點擊可以直接觀看",
+    "SEARCHBYID":"ID搜尋 kenkuang",
+    "FINDME":"想找我接案？",
+    "BYTHISWAY":"可以透過以下方式聯絡我",
+    "TOUCHME":"聯絡我",
+    "PRO":"專長",
+    "WORK":"作品",
+    "CONTACT":"聯絡方式"
+
+
+    
+
+}
