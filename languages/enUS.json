@@ -1,0 +1,30 @@
+{
+    "MYNAME":"Ken Kuang",
+    "HI":"Hi!",
+    "IM":"I'm",
+    "INTRO":"I made this website to introduce myself",
+    "CHANGELANG":"正體中文",
+    "LEARNABOUTME":"More about me",
+    "WHATIDO":"What I am good at",
+    "APPDEV":"Mobile app develop",
+    "APPDEV_DETAIL":"Android App devlop",
+    "WEBDESIGN":"Web Design",
+    "WEBDESIGN_DETAIL":"From front-end to back-end.Fimilar with Html5,javascript,Angular JS for front end develop.PHP,Node.js for back end devlop",
+    "WINAPP":"Windows application develop",
+    "WINAPP_DETAIL":"C# application devlop",
+    "SEEMYWORK":"See My works",
+    "MYWORK":"Those are my works",
+    "CLICKTOMORE":"",
+    "ONLINESLIDE":"Online Slide",
+    "ONLINESLIDE_DETAIL":"Implement html online slide by reveal js",
+    "SEARCHBYID":"Search ID :kenkuang",
+    "FINDME":"Have a case to me ?",
+    "BYTHISWAY":"You can contact by those way.",
+    "TOUCHME":"Contact Me",
+    "PRO":"Profession",
+    "WORK":"Work",
+    "CONTACT":"Contact"
+
+    
+
+}
