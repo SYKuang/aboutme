@@ -1,0 +1,27 @@
+{
+  "name": "aboutme",
+  "version": "0.0.0",
+  "authors": [
+    "kenkuang1213 <kenkuang1213@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-translate": "~2.8.0",
+    "angular": "angularjs#~1.4.6",
+    "jquery": "~2.1.4",
+    "angular-translate-loader-static-files": "~2.8.0",
+    "bootstrap": "3.3.4"
+  }
+}

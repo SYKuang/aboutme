@@ -1,0 +1,34 @@
+{
+  "name": "aboutme",
+  "version": "1.0.0",
+  "description": "This is my personal website ",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-autoprefixer": "~1.0.1",
+    "grunt-contrib-connect": "~0.8.0",
+    "grunt-contrib-cssmin": "~0.12.2",
+    "grunt-contrib-jade": "^0.14.1",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-qunit": "~0.5.2",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-sass": "~0.14.0",
+    "grunt-wiredep": "^2.0.0",
+    "grunt-zip": "~0.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenkuang1213/aboutme.git"
+  },
+  "author": "kenkuang1213",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenkuang1213/aboutme/issues"
+  },
+  "homepage": "https://github.com/kenkuang1213/aboutme#readme"
+}
